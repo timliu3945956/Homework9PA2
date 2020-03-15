@@ -14,6 +14,7 @@ using namespace std;
 
 static double version = 1.2;
 
+// added comment to file
 // hello this is tim
 int main(int argc, const char * argv[]) {
     // insert code here...
